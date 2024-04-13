@@ -1,7 +1,7 @@
 # Kubernetes :- Dynamic Scaling with HPA and Load Testing
 
 ## Description:
-This project simulates a real-world DevOps scenario where you need to deploy, configure autoscaling, and stress test a Node.js application for optimal performance.
+This is a dynamic scaling project that demonstrates the implementation of Horizontal Pod Autoscaling (HPA) in Kubernetes environments. This project focuses on optimizing the performance of Node.js applications through automated scaling based on resource usage metrics.
 
 ## Table of Contents:
 1. [Task 1: Kubernetes Deployment](#task-1-kubernetes-deployment)
