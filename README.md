@@ -29,7 +29,8 @@ kubectl get nodes
 ![Image](2.png)
 
 ### Step 3: Prepare Node.js Codebase
-- Download the Node.js codebase from the provided link.
+- Download the Node.js codebase from the link provided below.
+- [Download Link](https://drive.google.com/file/d/1Rz8LKNAYDYwtHRNsY67OqQGFChmUPsUt/view?usp=drive_link)
 - Extract the contents of the downloaded archive.
 
 ### Step 4: Dockerize the Node.js Application
