@@ -1,4 +1,4 @@
-# Kubernetes - Dynamic Scaling with HPA and Load Testing
+# Kubernetes :- Dynamic Scaling with HPA and Load Testing
 
 ## Description:
 This project simulates a real-world DevOps scenario where you need to deploy, configure autoscaling, and stress test a Node.js application for optimal performance.
